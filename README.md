@@ -6,4 +6,6 @@ Algorithums Fourth Edition By Robert Sedgewick &amp; Kevin Wayne
 
 - data type
 - statement
-- 
+
+e.g.1 Binary Search
+
