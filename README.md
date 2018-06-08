@@ -1,10 +1,7 @@
-# Algorithums-Notes
-Algorithums Fourth Edition By Robert Sedgewick &amp; Kevin Wayne
+# Data Structure & Algorithums-Notes
 
-## 1.Fundamentals
-### 1.1Basic Programming Model
+## 1.Python Primer
 
-- data type
-- statement
+alias:assign a second identifier to an existing object  
+Note: If we re-assign the names to a subsequent assignment statement, it doesn't affect the aliased one.   
 
-e.g.1 Binary Search
